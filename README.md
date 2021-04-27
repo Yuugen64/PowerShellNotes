@@ -16,7 +16,7 @@ Windows *[Docs](https://docs.microsoft.com/en-us/windows/terminal/tutorials/powe
 ```
 echo $profile
 ```
-This will show you where your profile should be.
+This will show you where your profile should be.  
 7. Copy the path up to this point:
 ```
 C:\Users\username\Documents\WindowsPowerShell\
