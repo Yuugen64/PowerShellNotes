@@ -5,7 +5,7 @@ A simple repository for recording some of the tricks/tips/tweaks I have learned 
 Setting up a more modern terminal on Windows
 =============================================
 
-Windows (Docs)[https://docs.microsoft.com/en-us/windows/terminal/tutorials/powerline-setup] for this process. 
+Windows *[Docs](https://docs.microsoft.com/en-us/windows/terminal/tutorials/powerline-setup)* for this process. 
 
 1. Download the Windows Terminal from the Microsoft Store. (Alternatively you can download the github release, however if you choose to do so updates wil have tobe done manually).
 2. We will need a Powerline compatible font. (The tutorial I followed used Cascadia Code).
