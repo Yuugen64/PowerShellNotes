@@ -42,3 +42,5 @@ Set-ExecutionPolicy Unrestricted
 14. If you are getting missing character boxes in your powershell, then you need to change the font in your settings, under 'fontFace'.
 15. Change the fontFace to Cascadia Code PL (the PowerLine fontface that we are using as part of this tutorial).
 16. (You can use other fonts if you want but be aware that depending on the font, other maintenance steps may be required).
+
+*When configuring your powershell you need to open the Settings.JSON from the Windows Terminal (Click the little drop dowm). Add two entries for fontFace and fontSize listing your newly add PL font and the size of the font in point (After the Profiles sectiom)*
