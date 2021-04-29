@@ -1,4 +1,5 @@
 # PowerShellNotes
+
 A simple repository for recording some of the tricks/tips/tweaks I have learned regarding Powershell.
 
 =============================================
@@ -44,3 +45,5 @@ Set-ExecutionPolicy Unrestricted
 16. (You can use other fonts if you want but be aware that depending on the font, other maintenance steps may be required).
 
 *When configuring your powershell you need to open the Settings.JSON from the Windows Terminal (Click the little drop dowm). Add two entries for fontFace and fontSize listing your newly add PL font and the size of the font in point (After the Profiles sectiom)*
+
+*If you want to compile C++ programs via Powershell (like I wanted to see) then you will either need to download Visual Studio's compiler for C++, or an alternative like MinGW or MSYS2. I opted for MinGW since I am more familiar with it. Honestly, I was hoping to configure the new Windows terminal to have the same apperance and functionality as decently configured Linux or Mac terminal. So far, I have git showing with oh-my-posh, g++ installed for command-line compilation of C++ in Powershell, and Vim for in-terminal editing. Not a flawless setup (had some issues with ssh key setup in github after resetting Windows recently) but otherwise the functionality is pretty nice (minus a package manager, maybe I'll give chocolatey a try soon).*
